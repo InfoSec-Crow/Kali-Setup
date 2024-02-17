@@ -1,2 +1,2 @@
 # Kali-Setup
-The Kali Linux setup i use for CTF
+I use the Kali Linux setup from: https://github.com/xct/kali-clean
